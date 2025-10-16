@@ -83,7 +83,7 @@ h2 {
 .download-btn {
   background-color: white;
   color: #1e293b;
-  padding: 10px 20px;
+  padding: 10px 10px;
   border-radius: 8px;
   text-decoration: none;
   font-weight: bold;
@@ -157,3 +157,4 @@ footer {
 #femil{
   text-decoration: none;
 }
+
